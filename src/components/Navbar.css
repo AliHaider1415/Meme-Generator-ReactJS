@@ -1,0 +1,14 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 1%;
+    padding: 1%;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(105,105,130,1) 0%, rgba(97,2,107,1) 0%, rgba(133,52,214,1) 55%, rgba(146,73,228,1) 86%);
+color: white;
+font-size: 0.9vw;
+}
+.navbar img{
+    width: 3%;
+}

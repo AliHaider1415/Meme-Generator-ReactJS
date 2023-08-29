@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/%7BMeme-Generator-ReactJS%7D/static/css/main.11212326.css",
+    "main.js": "/%7BMeme-Generator-ReactJS%7D/static/js/main.965badf1.js",
+    "static/js/787.876f76cf.chunk.js": "/%7BMeme-Generator-ReactJS%7D/static/js/787.876f76cf.chunk.js",
+    "static/media/meme-guy.png": "/%7BMeme-Generator-ReactJS%7D/static/media/meme-guy.5899d093131d63374502.png",
+    "index.html": "/%7BMeme-Generator-ReactJS%7D/index.html",
+    "main.11212326.css.map": "/%7BMeme-Generator-ReactJS%7D/static/css/main.11212326.css.map",
+    "main.965badf1.js.map": "/%7BMeme-Generator-ReactJS%7D/static/js/main.965badf1.js.map",
+    "787.876f76cf.chunk.js.map": "/%7BMeme-Generator-ReactJS%7D/static/js/787.876f76cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11212326.css",
+    "static/js/main.965badf1.js"
+  ]
+}
